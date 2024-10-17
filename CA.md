@@ -32,6 +32,8 @@
 
 ## What would you like to discover from the data set?
 
+
+
 1. When was the earliest recorded TV Show/Movies in the Netflix?
 
 2. Summarize the data: number of movies vs. TV shows, distribution of release years
@@ -78,6 +80,20 @@ The dataset likely comes from the streaming media industry, which has been rapid
 ## Write in your report the research you undertake and the reasons for choosing your questions and area of interest.
 
 The reasons for choosing these questions might stem from the desire to understand content strategies, the global impact of streaming services, and how platforms like Netflix respond to audience preferences globally.
+
+
+
+## clean
+
+delete all the blank column
+
+![image-20241017104638275](../../../Typora/img/image-20241017104638275.png)
+
+
+
+
+
+
 
 
 
